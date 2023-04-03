@@ -1,4 +1,4 @@
-<h1> Rest para retornar infor de visitas y noticias del Portal de noticias </h1>
+<h1> Rest para retornar info de visitas y noticias del Portal de noticias </h1>
 
 <p> Endpoint que retorna los datos de las News y sus lectores</p>
 
